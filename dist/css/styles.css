@@ -11512,7 +11512,7 @@ html {
   box-shadow: 5px 5px 20px 20px lightseagreen; 
 } */
 
-#blackjackImageLink #ollivandersImageLink{
+#blackjackImageLink:hover, #ollivandersImageLink:hover{
   box-shadow: 5px 5px 20px 20px lightseagreen; 
 }
 
