@@ -11511,3 +11511,7 @@ html {
 .imageLink:hover, .img-fluid rounded mb-5{
   box-shadow: 5px 5px 20px 20px lightseagreen; 
 }
+
+#theAvatar{
+  border-radius: 75px;
+}
