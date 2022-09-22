@@ -11507,3 +11507,7 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+.imageLink:hover{
+  box-shadow: 5px 5px 20px 20px lightseagreen; 
+}
