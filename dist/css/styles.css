@@ -11508,7 +11508,11 @@ html {
   background-color: #1a252f;
 }
 
-.imageLink:hover, .img-fluid rounded mb-5{
+/* .imageLink:hover, .img-fluid rounded mb-5{
+  box-shadow: 5px 5px 20px 20px lightseagreen; 
+} */
+
+#blackjackImageLink #ollivandersImageLink{
   box-shadow: 5px 5px 20px 20px lightseagreen; 
 }
 
