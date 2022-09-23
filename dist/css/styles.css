@@ -11525,3 +11525,7 @@ html {
   width: 100%; */
   text-align: center;
 }
+
+#technicalSkillsHeading{
+  margin: 0.5rem 0 0 0;
+}
