@@ -11533,3 +11533,8 @@ html {
 #contact{
   padding-bottom: 2rem;
 }
+
+#javascriptIcon{
+  height: 15px;
+  width: 15px;
+}
