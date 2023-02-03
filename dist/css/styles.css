@@ -11534,7 +11534,7 @@ html {
   padding-bottom: 2rem;
 }
 
-#javascriptIcon{
-  height: 15px;
-  width: 15px;
+#javascriptIcon, #htmlIcon{
+  height: 1rem;
+  width: 1rem;
 }
