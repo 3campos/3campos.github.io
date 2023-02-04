@@ -11534,7 +11534,7 @@ html {
   padding-bottom: 2rem;
 }
 
-.stackIcon{
+.stackIcon, #beanIcon{
   height: 1rem;
   width: 1rem;
 }
