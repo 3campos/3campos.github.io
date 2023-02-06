@@ -46,4 +46,8 @@ window.addEventListener('DOMContentLoaded', event => {
         });
     });
 
+    //button for email address
+    document.getElementById("emailButton").onclick = function() {
+        document.getElementById("myEmailAddress").style.display = "block";
+    }
 });
