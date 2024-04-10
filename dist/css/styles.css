@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*!
 * Start Bootstrap - Freelancer v7.0.6 (https://startbootstrap.com/theme/freelancer)
-* Copyright 2013-2022 Start Bootstrap
+* Copyright 2013-2024 Start Bootstrap
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE)
 */
 /*!
@@ -42,8 +42,6 @@
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
   --bs-primary-rgb: 26, 188, 156;
-  --bs-tech-rgb: 83, 130, 176;
-  --bs-footer-rgb: 83, 130, 176;
   --bs-secondary-rgb: 44, 62, 80;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -4510,10 +4508,6 @@ textarea.form-control-lg {
   color: #fff;
 }
 
-#navArrow{
-  font-size: 2rem;
-}
-
 .card {
   position: relative;
   display: flex;
@@ -7815,16 +7809,6 @@ textarea.form-control-lg {
 .bg-primary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
-}
-
-.bg-tech {
-  --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-tech-rgb), var(--bs-bg-opacity)) !important;
-}
-
-.bg-footer {
-  --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-footer-rgb), var(--bs-bg-opacity)) !important;
 }
 
 .bg-secondary {
@@ -11522,45 +11506,4 @@ html {
 
 .copyright {
   background-color: #1a252f;
-}
-
-/* .imageLink:hover, .img-fluid rounded mb-5{
-  box-shadow: 5px 5px 20px 20px lightseagreen; 
-} */
-
-#videoGameLibraryLink:hover, #blackjackImageLink:hover, #ollivandersImageLink:hover, #gitRippedImageLink:hover{
-  box-shadow: 5px 5px 20px 20px lightseagreen; 
-}
-
-#theAvatar{
-  border-radius: 75px;
-}
-
-#languages{
-  /* margin: 0 auto;
-  width: 100%; */
-  text-align: center;
-}
-
-#technicalSkillsHeading{
-  margin-top: 0.5rem;
-}
-
-#contact{
-  padding-bottom: 2rem;
-}
-
-.stackIcon{
-  height: 1rem;
-  width: 1rem;
-}
-
-#emailIcon{
-  height: 15px;
-  width: 15px;
-}
-
-#skylineIcon{
-  height: 60px;
-  width: 60px;
 }
